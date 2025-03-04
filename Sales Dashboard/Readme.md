@@ -23,7 +23,7 @@ The data for this project is sourced from the Kaggle dataset:
 
 
 ## Dataset Columns
-Dataset contains total 12 columns namely :
+Dataset contains total 7 columns namely :
 
 - **Date** - Date of the sales transaction
 - **Region** - Geographical region of sales
