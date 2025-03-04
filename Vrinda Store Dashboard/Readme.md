@@ -14,7 +14,7 @@ This project analyzes sales data from Vrinda Store, a clothing brand available o
 
 
 ## Project Level: Beginner
-This project is a beginners level project.To get me familiar with the basics of Pandas and to gain knowledge on how to handle real-world data analysis problems. I have worked with a small dataset and had used tableau to solve different tasks that are commonly encountered in data analytics.<br><br>
+This project is a beginners level project.To get me familiar with the basics of Excel and to gain knowledge on how to handle real-world data analysis problems. I have worked with a small dataset and had used excel(pivot charts) to solve different tasks that are commonly encountered in data analytics.<br><br>
 
 
 ## Dataset
@@ -23,7 +23,7 @@ The data for this project is sourced from the Kaggle dataset:
 
 
 ## Dataset Columns
-Dataset contains total 12 columns namely :
+Dataset contains total 21 columns namely :
 
 - **Index** - Unique index for each record
 - **Order ID** - Unique order identification number
@@ -47,6 +47,17 @@ Dataset contains total 12 columns namely :
 - **Ship-Country** - Country of the shipment
 - **B2B** - Indicates if the order is Business-to-Business
 <br><br>
+
+
+## Business Problems
+
+Vrinda Store wants to optimize its sales and customer engagement strategy by identifying key factors influencing sales performance. The company aims to:
+
+- Identify the most profitable sales channels and optimize marketing efforts accordingly.
+- Understand customer demographics (gender and age) to tailor product offerings.
+- Improve order fulfillment by reducing returns and cancellations.
+- Determine which states contribute the most to sales and strategize expansion in other regions.
+- Analyze sales trends over the months to improve inventory and marketing campaigns.<br><br>
   
 
 ## Dashboard Features 
@@ -60,7 +71,7 @@ Dataset contains total 12 columns namely :
 
 ## Tools Used  
 
-- **Microsoft Excel** - (Data visualization & dashboard creation)<br><br>
+- **Microsoft Excel** - Data visualization & dashboard creation<br><br>
 
 
 ## How To Use  
@@ -78,7 +89,7 @@ Dataset contains total 12 columns namely :
 
 
 ## Conclusion
-This project provides an excellent opportunity for me as a beginners to gain tableau knowledge to solve practical data problems. By working through these, I gain hands-on experience with Visulization, graphs, date manipulation, and conditional logic.
+This project provides an excellent opportunity for me as a beginners to gain excel knowledge to solve practical data problems. By working through these, I gain hands-on experience with Visulization, graphs, date manipulation, and conditional logic.
 
 
 
