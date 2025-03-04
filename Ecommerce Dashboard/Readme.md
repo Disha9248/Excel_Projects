@@ -53,11 +53,11 @@ Dataset contains total 22 columns namely :
 
 The e-commerce company aims to enhance profitability and sales performance by addressing key challenges, including:
 
-- Wants to know year on year growth The company needs to identify areas where costs are rising or pricing strategies are ineffective.
-Sales Performance by Category: Technology, office supplies, and furniture contribute to overall sales, but the company must determine which categories are driving profits and which require improvement.
-State-wise Sales Variation: Sales distribution across states varies significantly. Some states generate high revenue, while others underperform. The company must focus on optimizing sales strategies in low-performing regions.
-Product Subcategory Optimization: Phones and chairs are top-performing subcategories, but lower-performing subcategories like binders and tables need evaluation to improve profitability.
-Segment-Wise Focus: The sales distribution among consumer, corporate, and home office segments should be analyzed to tailor marketing strategies effectively.
+- Wants to know year on year growth profit, sales and profit margin.
+- Technology, office supplies, and furniture contribute to overall sales, but the company must determine which categories are driving profits and which require improvement.
+- Sales distribution across states varies significantly. Some states generate high revenue, while others underperform. The company must focus on optimizing sales strategies in low-performing regions.
+- Sales by top-performing subcategories, need evaluation to improve profitability.
+- The sales distribution among consumer, corporate, and home office segments should be analyzed to tailor marketing strategies effectively.<br><br>
 
 ## Dashboard Features 
 
@@ -86,10 +86,12 @@ Segment-Wise Focus: The sales distribution among consumer, corporate, and home o
 ![Ecommerce Dashboard](https://github.com/user-attachments/assets/97018d1a-1a87-49ff-9836-932cd363682b)<br><br>
 
 
-## Conclusion
-This project provides an excellent opportunity for me as a beginners to gain tableau knowledge to solve practical data problems. By working through these, I gain hands-on experience with Visulization, graphs, date manipulation, and conditional logic.
+## Findings
 
-
-
+- While sales and order quantities are growing, the declining profit margin suggests increased costs or ineffective pricing. The company should analyze costs, discounts, and operational expenses.
+- Technology products contribute the highest revenue among categories, making them a key focus for expansion and marketing.
+- Some states contribute significantly to revenue, while others lag. Expanding marketing efforts in underperforming states can improve overall sales.
+- Phones and chairs are the best-selling subcategories, while binders and tables need optimization—either through better promotion, bundling strategies, or discounts.
+- Understanding which customer segment (Consumer, Corporate, or Home Office) drives the most revenue can help refine marketing and sales efforts.
 
 
