@@ -14,7 +14,7 @@ This project analyzes e-commerce sales data using Excel to uncover key business 
 
 
 ## Project Level: Beginner
-This project is a beginners level project.To get me familiar with the basics of Pandas and to gain knowledge on how to handle real-world data analysis problems. I have worked with a small dataset and had used tableau to solve different tasks that are commonly encountered in data analytics.<br><br>
+This project is a beginners level project.To get me familiar with the basics of Excel and to gain knowledge on how to handle real-world data analysis problems. I have worked with a small dataset and had used Excel (Pivot Table) to solve different tasks that are commonly encountered in data analytics.<br><br>
 
 
 ## Dataset
@@ -23,7 +23,7 @@ The data for this project is sourced from the Kaggle dataset:
 
 
 ## Dataset Columns
-Dataset contains total 12 columns namely :
+Dataset contains total 22 columns namely :
 
 - **Row ID** - Unique identifier for each row in the dataset.
 - **Order ID** - Unique identifier for each order.
@@ -48,7 +48,16 @@ Dataset contains total 12 columns namely :
 - **Discount** - Discount applied to the sale.
 - **Profit** - Profit after deducting costs.
 <br><br>
-  
+
+## Business Problem
+
+The e-commerce company aims to enhance profitability and sales performance by addressing key challenges, including:
+
+- Wants to know year on year growth The company needs to identify areas where costs are rising or pricing strategies are ineffective.
+Sales Performance by Category: Technology, office supplies, and furniture contribute to overall sales, but the company must determine which categories are driving profits and which require improvement.
+State-wise Sales Variation: Sales distribution across states varies significantly. Some states generate high revenue, while others underperform. The company must focus on optimizing sales strategies in low-performing regions.
+Product Subcategory Optimization: Phones and chairs are top-performing subcategories, but lower-performing subcategories like binders and tables need evaluation to improve profitability.
+Segment-Wise Focus: The sales distribution among consumer, corporate, and home office segments should be analyzed to tailor marketing strategies effectively.
 
 ## Dashboard Features 
 
@@ -61,7 +70,7 @@ Dataset contains total 12 columns namely :
 
 ## Tools Used  
 
-- **Microsoft Excel** - (Data visualization & dashboard creation)<br><br>
+- **Microsoft Excel** - Data visualization & dashboard creation<br><br>
 
 
 ## How To Use  
@@ -74,12 +83,12 @@ Dataset contains total 12 columns namely :
 
 ## Dashboard Previews
 
-![Ecommerce Dashboard](https://github.com/user-attachments/assets/8c3d0abb-495e-403f-9688-d84e4e169958)<br><br>
-
+![Ecommerce Dashboard](https://github.com/user-attachments/assets/97018d1a-1a87-49ff-9836-932cd363682b)<br><br>
 
 
 ## Conclusion
 This project provides an excellent opportunity for me as a beginners to gain tableau knowledge to solve practical data problems. By working through these, I gain hands-on experience with Visulization, graphs, date manipulation, and conditional logic.
+
 
 
 
