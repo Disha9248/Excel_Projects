@@ -14,7 +14,7 @@ This project analyzes sales data using Excel to gain insights into revenue, cost
 
 
 ## Project Level: Beginner
-This project is a beginners level project.To get me familiar with the basics of Pandas and to gain knowledge on how to handle real-world data analysis problems. I have worked with a small dataset and had used tableau to solve different tasks that are commonly encountered in data analytics.<br><br>
+This project is a beginners level project.To get me familiar with the basics of Excel and to gain knowledge on how to handle real-world data analysis problems. I have worked with a small dataset and had used Excel (Pivot Table) to solve different tasks that are commonly encountered in data analytics.<br><br>
 
 
 ## Dataset
@@ -33,7 +33,15 @@ Dataset contains total 12 columns namely :
 - **Cost Price** - Purchase cost of the item
 - **Selling Price** - Price at which the item was sold
 <br><br>
-  
+
+## Business Problems
+
+The company wants to enhance its sales performance and operational efficiency by addressing key challenges, including:
+
+- Identifying which regions generate the highest and lowest sales and optimizing marketing and distribution strategies accordingly.
+- Understanding the top customers' impact on revenue to create targeted retention and engagement strategies.
+- Evaluating delivery personnel sales performance to improve efficiency and reward high performers.
+- Analyzing monthly sales trends to identify peak and low-performing periods for better inventory and marketing decisions.<br><br>
 
 ## Dashboard Features 
 
@@ -60,10 +68,15 @@ Dataset contains total 12 columns namely :
 
 ![Sales Dashboard](https://github.com/user-attachments/assets/f7974a18-7f10-4772-862d-6aa28050617e)<br><br>
 
+## Findings
 
+- The North West region has the highest sales (~49,723), while the South East has the lowest (~39,059). The company should focus on improving sales in underperforming regions through targeted marketing and promotions.
+- Certain customers (e.g., C11 and C2) contribute significantly to revenue. A loyalty program or personalized offers could be implemented to retain these high-value customers.
+- Sales contributions vary among delivery personnel, with some outperforming others. Identifying best practices from top performers and providing additional training to lower performers can improve overall efficiency.
+- There is noticeable fluctuation in monthly sales, with peaks and dips. Seasonal trends should be analyzed further to align marketing and stock availability with high-demand periods.<br><br>
 
 ## Conclusion
-This project provides an excellent opportunity for me as a beginners to gain tableau knowledge to solve practical data problems. By working through these, I gain hands-on experience with Visulization, graphs, date manipulation, and conditional logic.
+This project provides an excellent opportunity for me as a beginners to gain excel knowledge to solve practical data problems. By working through these, I gain hands-on experience with Visulization, graphs, date manipulation, and conditional logic.
 
 
 
