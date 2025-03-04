@@ -53,7 +53,7 @@ The company wants to enhance its sales performance and operational efficiency by
 
 ## Tools Used  
 
-- **Microsoft Excel** - (Data visualization & dashboard creation)<br><br>
+- **Microsoft Excel** - Data visualization & dashboard creation<br><br>
 
 
 ## How To Use  
@@ -76,7 +76,7 @@ The company wants to enhance its sales performance and operational efficiency by
 - There is noticeable fluctuation in monthly sales, with peaks and dips. Seasonal trends should be analyzed further to align marketing and stock availability with high-demand periods.<br><br>
 
 ## Conclusion
-This project provides an excellent opportunity for me as a beginners to gain excel knowledge to solve practical data problems. By working through these, I gain hands-on experience with Visulization, graphs, date manipulation, and conditional logic.
+This project provides an excellent opportunity for me as a beginners to gain Excel knowledge to solve practical data problems. By working through these, I gain hands-on experience with Visulization, graphs, date manipulation, and conditional logic.
 
 
 
